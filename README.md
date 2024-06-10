@@ -4,7 +4,7 @@
 - 🔭 Atualmente trabalhando em projetos pessoais para aprimorar meus conhecimentos.
 - 🌱 Focado em aprender novas linguagens e em busca de um emprego na área!
 - ⚡ Tenho conhecimento em linguagens como Java, Python, HTML, CSS.
-  
+
 ###
 
 <div align="left">
