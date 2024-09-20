@@ -1,9 +1,9 @@
 <h2 align="left">👋 Hello, world!</h2>
 
-- 😄 Olá! Eu sou João Boudoux. Tenho 21 anos, Estudante de Ciência da Computação pela universidade UNINASSAU.
+- 😄 Olá! Eu sou João Boudoux. Tenho 22 anos, Estudante de Ciência da Computação pela universidade UNINASSAU.
 - 🔭 Atualmente trabalhando em projetos pessoais para aprimorar meus conhecimentos.
 - 🌱 Focado em aprender novas linguagens e em busca de um emprego na área!
-- ⚡ Tenho conhecimento em linguagens como Java, Python, HTML, CSS.
+- ⚡ Tenho conhecimento em linguagens como Javascript, Python, HTML, CSS.
 
 ###
 
