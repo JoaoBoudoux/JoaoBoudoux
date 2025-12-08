@@ -1,5 +1,6 @@
 # 💫 About Me:
 *`Fullstack Developer`*
+
 I’m a dedicated developer with a passion for crafting efficient, innovative solutions through code. I specialize in Java, Python, JavaScript, TypeScript, PHP and enjoy tackling projects that blend technical precision with creative problem-solving. With a strong commitment to continuous learning, I thrive on exploring new tools and technologies to learning more every day.
 
 
